@@ -40,6 +40,6 @@
 
 ## 🌐 Connect With Me  
 
-📧 <a href="shashankpratap82@gmail.com">Gmail</a>
-💼 <a href="www.linkedin.com/in/shashank-pratap-58549633b">Linkedin</a>
+📧 <a href="mailto:shashankpratap82@gmail.com">Gmail</a>
+💼 <a href="https://www.linkedin.com/in/shashank-pratap-58549633b">Linkedin</a>
 📱  <a href="https://www.instagram.com/shashan_kofficial/">Instagram</a>
