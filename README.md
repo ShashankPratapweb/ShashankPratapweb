@@ -1,8 +1,6 @@
 <!-- GitHub Profile README for Shashank Pratap -->
 
-<p align="center">
-  <img src="https://github.com/ShashankPratapweb/ShashankPratapweb/blob/main/My%20Repo.png" alt="Shashank Pratap Banner" />
-</p>
+
 
 ---
 
